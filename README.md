@@ -20,7 +20,7 @@ npm init to create package.json
 npm i mysql2 package for mysql database
 npm i sequelize package to connect to Express.js API
 npm i dotenv to use enviroment variables to store sensitive data.
-npm run seed to seed data to database
+npm run seed or node seeds/js to seed data to database
 node server.js to run server
 ## Usage
 Database models
@@ -100,4 +100,4 @@ References the Tag model's id.
 
 
 db folder that holds schema.sql file to create mysql database
-
+walkthrough video: https://drive.google.com/file/d/1SwnvLOOZML31hGBgHspDl4gT-ZjimQT0/view
