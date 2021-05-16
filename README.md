@@ -22,6 +22,7 @@ npm i sequelize package to connect to Express.js API
 npm i dotenv to use enviroment variables to store sensitive data.
 npm run seed or node seeds/js to seed data to database
 node server.js to run server
+insonmia and mysql workbench
 ## Usage
 Database models
 
@@ -100,4 +101,9 @@ References the Tag model's id.
 
 
 db folder that holds schema.sql file to create mysql database
+
+screenshots: ![Screenshot (20)](https://user-images.githubusercontent.com/78382681/118385032-73302d80-b5d9-11eb-982e-54b278639901.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/78382681/118385039-7f1bef80-b5d9-11eb-910d-96b265313e14.png)
+
 walkthrough video: https://drive.google.com/file/d/1SwnvLOOZML31hGBgHspDl4gT-ZjimQT0/view
+https://drive.google.com/file/d/1yTd57dUAkDTMQm1OY9RnHKm62SOyrOQH/view?usp=sharing
